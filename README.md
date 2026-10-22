@@ -68,7 +68,7 @@ Runtime safety layer for **agentic AI**
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 &nbsp;LearnLoop AI
+### 🎓 &nbsp;[LearnLoop AI](https://github.com/Niraj21-star/Learnloop)
 Adaptive learning & assessment platform
 
 **Bayesian Knowledge Tracing** for concept-level mastery
