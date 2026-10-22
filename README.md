@@ -1,27 +1,129 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>I am a passionate Engineering student specializing in AI & Data Science.  <br>I love building real-world solutions that solve meaningful problems.<br><br>Currently focused on:<br>- 📱 App Development with Flutter<br>- 🌐 Backend Development with Node.js<br>- 🧠 Exploring AI & Data Science<br>- 🚀 Building scalable startup ideas<br><br>My goal is to combine technology, innovation, and entrepreneurship to create impactful products.<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Niraj%20Karnawat&fontSize=44&fontAlignY=36&desc=Full-Stack%20Developer%20%26%20AI%20Engineer&descSize=16&descAlignY=58&animation=fadeIn"/>
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/niraj-karnawat-0243ba308) 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6E40C9&center=true&vCenter=true&width=640&lines=I+turn+client+problems+into+shipped+products;Building+in+production+%40+Solvora+(AyuSync);GuardRail+%7C+LearnLoop+AI+%7C+School+ERP;Forward+Deployed+Engineering%2C+Applied+AI" alt="Typing SVG"/></a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Niraj21-star&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Niraj21-star&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj21-star&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Niraj21-star&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://nirajskarnawat.in"><img src="https://img.shields.io/badge/Portfolio-nirajskarnawat.in-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/niraj-karnawat-0243ba308"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://nirajskarnawat.in/resume.pdf"><img src="https://img.shields.io/badge/Resume-View-111827?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/></a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Niraj21-star&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Niraj21-star&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding sticker"/>
+
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand"/>
+
+I'm **Niraj** — a third-year engineer who builds for real users, not just demos.
+
+🎓 &nbsp;B.E. AI & Data Science '28 · DYPIT Pune · **CGPA 9.45/10, Dept. Topper**
+
+💼 &nbsp;Co-founder @ **Solvora (AyuSync)** — client products, in production
+
+🧑‍💻 &nbsp;Web & App Lead @ **GDG DIT Pimpri** · 500+ member community
+
+🚀 &nbsp;Focused on **Forward Deployed Engineering & Applied AI**
+
+📍 &nbsp;Pune, India · **Available for internships from Nov 2026**
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+## ✨ Featured Work
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 &nbsp;Solvora School ERP
+**Production** school management system for a live client
+
+`700+ admissions` · `12+ daily users`
+Saves **4–5 hrs/day** with automated document generation
+
+<sub>Node.js · Express · MongoDB · React · Puppeteer</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ &nbsp;[GuardRail](https://github.com/Niraj21-star/guard_ai)
+Runtime safety layer for **agentic AI**
+
+`42-attack` red-team benchmark · SHA-256 audit log
+🏆 **Special Recognition — Infosys Ignite EngNext 2026**
+
+<sub>Python · AI Security · LLM Evaluation · Docker</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 &nbsp;LearnLoop AI
+Adaptive learning & assessment platform
+
+**Bayesian Knowledge Tracing** for concept-level mastery
+Monaco workspace + sandboxed Docker code runner
+
+<sub>Next.js · TypeScript · PostgreSQL · Docker</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 &nbsp;[NexConnect](https://github.com/Niraj21-star/nexconnect)
+Trust-driven professional platform
+
+Dynamic **Trust Engine** — real-time trust scores
+from verification signals & behaviour
+
+<sub>Next.js · TypeScript · MongoDB · Better Auth</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🧰 &nbsp;My Stack — Sticker Style
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,express,fastapi,tailwind,postgres,mongodb,mysql,docker,aws,git,github,vercel&perline=9" alt="Tech stack icons"/>
+
+<sub>Only what I've actually shipped with — nothing more.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 &nbsp;GitHub at a Glance
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Niraj21-star&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=6E40C9&icon_color=6E40C9" alt="GitHub stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Niraj21-star&hide_border=true&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9" alt="GitHub streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 &nbsp;Let's build something real
+
+[LinkedIn](https://www.linkedin.com/in/niraj-karnawat-0243ba308) &nbsp;·&nbsp; [Portfolio](https://nirajskarnawat.in) &nbsp;·&nbsp; Pune / Remote / Bengaluru
+
+<sub>Open to SWE · Applied AI · FDE internships — from November 2026</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer"/>
