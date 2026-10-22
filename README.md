@@ -1,10 +1,12 @@
-<!-- NIRAJ KARNAWAT — GITHUB PROFILE README · "Workbench" design -->
+<!-- NIRAJ KARNAWAT — GITHUB PROFILE README · "Workbench" design + full sticker layer (v6) -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=160&section=header&text=Niraj%20Karnawat&fontSize=40&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descSize=15&descAlignY=60&animation=fadeIn"/>
 
 <div align="center">
 
 <samp>N / K</samp>
 
-<h1>Hey, I’m Niraj.</h1>
+<h1>Hey, I’m Niraj. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Waving hand"/></h1>
 
 <h3>I like understanding how things work — and building things that make them work better.</h3>
 
@@ -13,6 +15,12 @@
 <p>B.E. Artificial Intelligence &amp; Data Science · Dr. D. Y. Patil Institute of Technology, Pune (SPPU) · Class of 2028<br />CGPA 9.45/10 — Department Topper · Co-founder, Solvora (AyuSync) · Web &amp; App Development Lead, GDG DIT Pimpri</p>
 
 <p><code>AI systems</code> · <code>Software engineering</code> · <code>Curious experiments</code></p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=111827&center=true&vCenter=true&width=620&lines=I+turn+client+problems+into+shipped+products;Building+in+production+%40+Solvora+(AyuSync);GuardRail+%7C+LearnLoop+AI+%7C+School+ERP" alt="Typing SVG"/></a>
+
+<a href="https://nirajskarnawat.in"><img src="https://img.shields.io/badge/Portfolio-nirajskarnawat.in-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/niraj-karnawat-0243ba308"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://nirajskarnawat.in/resume.pdf"><img src="https://img.shields.io/badge/Resume-View-111827?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/></a>
 
 <br />
 
@@ -47,7 +55,9 @@
 
 ## 01 — Curious about the details.
 
-I learn best by building the thing, breaking it gently, and tracing how the
+<img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding sticker"/>
+
+🔍 I learn best by building the thing, breaking it gently, and tracing how the
 pieces connect.
 
 My work sits where **AI engineering** and **software development** meet. I care
@@ -68,11 +78,13 @@ web & app development for **GDG DIT Pimpri**, a 500+ member developer community.
 
 > **Workbench note:** keep digging until the abstraction makes sense.
 
+<br clear="right"/>
+
 ---
 
 ## 02 — Projects from the workbench.
 
-Things I have designed, built, and shipped — a production system running at a real
+🚀 Things I have designed, built, and shipped — a production system running at a real
 school, safer AI, and better ways to learn.
 
 <table>
@@ -81,7 +93,7 @@ school, safer AI, and better ways to learn.
 
 <samp>PROJECT / 01 · PRODUCTION · LIVE SINCE SEP 2025</samp>
 
-<h3>Solvora School ERP</h3>
+<h3>🏫 Solvora School ERP</h3>
 
 <strong>School management, running at a real institution</strong>
 
@@ -101,6 +113,8 @@ admissions ──> fees ──> records
 <code>React</code> <code>Puppeteer</code> <code>REST APIs</code>
 </p>
 
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react" height="30" alt="ERP stack icons"/></p>
+
 <samp>CLIENT SYSTEM — WALKTHROUGH ON REQUEST</samp>
 
 </td>
@@ -108,7 +122,7 @@ admissions ──> fees ──> records
 
 <samp>PROJECT / 02 · SPECIAL RECOGNITION · INFOSYS IGNITE 2026</samp>
 
-<h3><a href="https://github.com/Niraj21-star/guard_ai">GuardRail</a></h3>
+<h3>🛡️ <a href="https://github.com/Niraj21-star/guard_ai">GuardRail</a></h3>
 
 <strong>AI agent security and action guardrails</strong>
 
@@ -129,6 +143,8 @@ proposed action
 <code>Risk classification</code> <code>Python</code>
 </p>
 
+<p><img src="https://skillicons.dev/icons?i=python,docker" height="30" alt="GuardRail stack icons"/></p>
+
 <samp>REPOSITORY — <a href="https://github.com/Niraj21-star/guard_ai">github.com/Niraj21-star/guard_ai</a></samp>
 
 </td>
@@ -138,7 +154,7 @@ proposed action
 
 <samp>PROJECT / 03 · BUILT &amp; SHIPPED</samp>
 
-<h3><a href="https://github.com/Niraj21-star/Learnloop">LearnLoop AI</a></h3>
+<h3>🎓 <a href="https://github.com/Niraj21-star/Learnloop">LearnLoop AI</a></h3>
 
 <strong>Adaptive learning and assessment</strong>
 
@@ -157,6 +173,8 @@ foundations ──> practice ──> assess
 <code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code>
 </p>
 
+<p><img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,docker" height="30" alt="LearnLoop stack icons"/></p>
+
 <samp>REPOSITORY — <a href="https://github.com/Niraj21-star/Learnloop">github.com/Niraj21-star/Learnloop</a></samp>
 
 </td>
@@ -164,7 +182,7 @@ foundations ──> practice ──> assess
 
 <samp>PROJECT / 04 · FULL-STACK BUILD</samp>
 
-<h3><a href="https://github.com/Niraj21-star/nexconnect">NexConnect</a></h3>
+<h3>🔗 <a href="https://github.com/Niraj21-star/nexconnect">NexConnect</a></h3>
 
 <strong>Professional networking, with trust built in</strong>
 
@@ -183,6 +201,8 @@ behaviour ─────┘
 <code>MongoDB</code> <code>Better Auth</code> <code>REST APIs</code>
 </p>
 
+<p><img src="https://skillicons.dev/icons?i=nextjs,ts,mongodb" height="30" alt="NexConnect stack icons"/></p>
+
 <samp>REPOSITORY — <a href="https://github.com/Niraj21-star/nexconnect">github.com/Niraj21-star/nexconnect</a></samp>
 
 </td>
@@ -193,7 +213,7 @@ behaviour ─────┘
 
 ## 03 — Tools I reach for.
 
-An evolving stack selected by what the project needs—not collected for a badge
+🧰 An evolving stack selected by what the project needs—not collected for a badge
 wall.
 
 | 01 / Languages | 02 / Frontend + backend |
@@ -206,11 +226,17 @@ wall.
 
 <sub>← always learning the layer underneath</sub>
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,express,fastapi,tailwind,postgres,mongodb,mysql,docker,aws,git,github,vercel&perline=9" alt="Tech stack icons"/>
+
+</div>
+
 ---
 
 ## 04 — Notes from the workbench.
 
-Small starting points for experiments, open-source discoveries, and lessons
+📝 Small starting points for experiments, open-source discoveries, and lessons
 worth sharing.
 
 <details>
@@ -249,6 +275,25 @@ easier to see.
 
 <sub>Consistency over streaks. This motif is decorative and does not represent contribution statistics.</sub>
 
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote"/>
+
+</div>
+
+---
+
+## — GitHub at a glance.
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Niraj21-star&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=111827&icon_color=4B5563" alt="GitHub stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Niraj21-star&hide_border=true&ring=111827&fire=111827&currStreakLabel=111827" alt="GitHub streak"/>
+<br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj21-star&hide_border=true&layout=compact&langs_count=8&title_color=111827" alt="Top languages"/>
+
+</div>
+
 ---
 
 ## 05 — Have an interesting problem to solve?
@@ -265,6 +310,16 @@ interesting engineering challenge.
 | **Email** | [karnawatniraj@gmail.com](mailto:karnawatniraj@gmail.com) |
 | **Portfolio** | [nirajskarnawat.in](https://nirajskarnawat.in) |
 
+<div align="center">
+
+<a href="https://github.com/Niraj21-star"><img src="https://skillicons.dev/icons?i=github" width="38" alt="GitHub"/></a> &nbsp;<a href="https://www.linkedin.com/in/niraj-karnawat-0243ba308"><img src="https://skillicons.dev/icons?i=linkedin" width="38" alt="LinkedIn"/></a> &nbsp;<a href="mailto:karnawatniraj@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="38" alt="Email"/></a>
+
+<br />
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="90" alt="Animated GitHub Octocat"/>
+
+</div>
+
 
 <br />
 
@@ -273,3 +328,5 @@ interesting engineering challenge.
 <samp>N / K &nbsp;·&nbsp; MADE WITH CURIOSITY &nbsp;·&nbsp; &gt;_</samp>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=100&section=footer"/>
