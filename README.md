@@ -1,6 +1,6 @@
 <!-- NIRAJ KARNAWAT — GITHUB PROFILE README · "Workbench" design + full sticker layer (v6) -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=160&section=header&text=Niraj%20Karnawat&fontSize=40&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descSize=15&descAlignY=60&animation=fadeIn"/>
+
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 <strong>AI &amp; Data Science Engineering Student</strong>
 
-<p>B.E. Artificial Intelligence &amp; Data Science · Dr. D. Y. Patil Institute of Technology, Pune (SPPU) · Class of 2028<br />CGPA 9.45/10 — Department Topper · Co-founder, Solvora (AyuSync) · Web &amp; App Development Lead, GDG DIT Pimpri</p>
+<p>B.E. Artificial Intelligence &amp; Data Science · Dr. D. Y. Patil Institute of Technology, Pune (SPPU) · Class of 2028<br />CGPA 9.45/10 </p>
 
 <p><code>AI systems</code> · <code>Software engineering</code> · <code>Curious experiments</code></p>
 
@@ -301,7 +301,6 @@ easier to see.
 Always happy to talk about useful software, AI systems, open source, or an
 interesting engineering challenge.
 
-<samp>● OPEN TO SWE · APPLIED AI · FORWARD DEPLOYED ENGINEER INTERNSHIPS FROM NOV 2026 &nbsp;/&nbsp; PUNE · REMOTE · BENGALURU</samp>
 
 | Find me | Verified detail |
 | --- | --- |
