@@ -8,7 +8,7 @@
 
 <h1>Hey, I’m Niraj. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Waving hand"/></h1>
 
-<h3>I like understanding how things work — and building things that make them work better.</h3>
+<h3>I like understanding how things work and building things that make them work better.</h3>
 
 <strong>AI &amp; Data Science Engineering Student</strong>
 
